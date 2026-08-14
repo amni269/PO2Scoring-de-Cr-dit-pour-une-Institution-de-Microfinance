@@ -138,8 +138,6 @@ duree = st.number_input(
 # Ratio prêt / revenu
 ratio = montant / revenu if revenu > 0 else 0
 
-
-
 st.header("Politique de risque")
 
 threshold = st.selectbox(
