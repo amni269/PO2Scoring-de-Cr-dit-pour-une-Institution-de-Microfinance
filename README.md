@@ -2,7 +2,7 @@
 
 # Scoring de Crédit pour une Institution de Microfinance
 
-## Contexte et problématique métier
+# Contexte et problématique métier
 
 Les institutions de microfinance accordent des prêts à des commerçants et à de petites entreprises afin de soutenir leurs activités économiques. Cependant, certains emprunteurs peuvent ne pas rembourser leur crédit, ce qui représente un risque financier important.
 
