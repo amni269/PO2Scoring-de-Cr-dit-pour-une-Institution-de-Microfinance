@@ -78,7 +78,7 @@ Original file is located at
 #     max_value=40,
 #     value=6
 # )
-# 
+#
 # revenu = st.number_input(
 #     "Revenu mensuel (GNF)",
 #     min_value=500000,
